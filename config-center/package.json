@@ -4,7 +4,7 @@
   "name": "env-switcher-aliot",
   "displayName": "env-switcher-aliot",
   "description": "A .env switcher, for developer to manage multiple environments conveniently, free to switch .env file for each environment.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.103.0"
   },
